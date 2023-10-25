@@ -15,6 +15,11 @@ body {
 
 .container {
     margin: 160px 0 0 200px;
+    margin-left: 50px;
+    margin-
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 .row {
     width: 100%;
@@ -73,5 +78,13 @@ button:active {
 }
 .windows {
     width: 95px;
+    border-radius: 10px;
+}
+.ent-btn-2{
+    height: 85px;
+    border-radius: 10px;
+}
+.zero {
+    width: 100px;
     border-radius: 10px;
 }
